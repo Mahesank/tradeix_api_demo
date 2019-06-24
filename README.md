@@ -13,7 +13,7 @@ This project is maven configured
 Download the project from git hub repository https://github.com/Mahesank/tradeix_api_demo
 
 
-## Prerequsit for execution
+## Prerequisite for execution
 
 Make sure you have the maven compiler plugin in local .m2 directory else lnclude the dependencies in the POM file 
 
