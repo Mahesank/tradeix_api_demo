@@ -1,6 +1,6 @@
 # tradeix_api_demo
 
-This is test project for AIP demo using Rest Assured and Jnuit.
+This is a test project for AIP demo using Rest Assured and Jnuit.
 
 ##  Language
  Java 1.8. 
@@ -19,19 +19,19 @@ Make sure you have the maven compiler plugin in local .m2 directory else lnclude
 
 ## Import Project
 
-Import the project pom file using Intelej or eclipse
+Import the project pom file using intellij or eclipse
 
 
 ## Execution
 
-Execution of the project can be done by mvn cmd or using the Intelej or eclipse
+Execution of the project can be done by mvn cmd or using the intellij or eclipse
 
 Below command should download the required dependencies and start the test
 mvn clean install
 
-Steps to execute Using IDE
+## Steps to execute Using IDE
 
-Import the project using  Intelej or eclipse
+Import the project using  intellij or eclipse
 Run the EmployeeAPITest.java file present under src>test>java
 
 
